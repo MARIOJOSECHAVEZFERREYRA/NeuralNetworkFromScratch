@@ -1,5 +1,5 @@
 #include "neuralNetwork.h"
-
+//COMENTARIO DE PRUEBA
 int main(){
     srand((unsigned int)time(NULL));
     const double learningRate = 0.1f;
